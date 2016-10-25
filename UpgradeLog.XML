@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Hook v2">
+</Property><Property Name="Solution File" Value="C:\Users\Vikrum\Documents\Visual Studio 2008\Direct X Code\Hook v2\Hook v2.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Vikrum\Documents\Visual Studio 2008\Direct X Code\Hook v2\Hook v2.suo">
+</Property><Property Name="Date" Value="Monday, October 15, 2012">
+</Property><Property Name="Time" Value="13:30 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Hook v2.sln" Description="File successfully backed up as C:\Users\Vikrum\Documents\Visual Studio 2008\Direct X Code\Hook v2\Hook v2.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Hook v2.suo" Description="File successfully backed up as C:\Users\Vikrum\Documents\Visual Studio 2008\Direct X Code\Hook v2\Hook v2.suo.old">
+</Event><Event ErrorLevel="0" Project="Hook v2" Source="Hook v2.vcproj" Description="Converting project file 'C:\Users\Vikrum\Documents\Visual Studio 2008\Direct X Code\Hook v2\Hook v2.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Hook v2" Source="Hook v2.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Hook v2" Source="Hook v2.vcproj" Description="Done converting to new project file 'C:\Users\Vikrum\Documents\Visual Studio 2008\Direct X Code\Hook v2\Hook v2.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Hook v2" Source="Hook v2.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Hook v2.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Hook v2.sln" Description="Converted">
+</Event></UpgradeLog>
